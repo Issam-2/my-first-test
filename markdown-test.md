@@ -1,10 +1,10 @@
 # Heading 1
-Erste 
+Erste Überschrift
 ## Heading 2
 Zweite Überschrift
-### Heading level 3 
+### Heading 3 
 
-## Lists
+## Listen
 - Programmiersprachen
   - Javascript
   - CSS
