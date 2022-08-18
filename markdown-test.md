@@ -6,4 +6,8 @@ Zweite Überschrift
 
 ## Lists
 - Programmiersprachen
+  - Javascript
+  - CSS
+  - java 
 - Hobbys
+  - Tennis 
